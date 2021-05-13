@@ -23,6 +23,7 @@ public class AtividadeTabuada {
 		 while(multiplicador <= 11) {
 		 System.out.println(num + " X " + multiplicador + " = " + num * multiplicador);
 		 multiplicador++;
+		 tec.close();
 		 }
 		 
 		 

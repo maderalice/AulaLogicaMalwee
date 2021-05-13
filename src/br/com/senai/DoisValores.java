@@ -43,6 +43,7 @@ public class DoisValores {
 		}
 		System.out.println("Quantidade de valores pares: " + par);
 		System.out.println("Quantidade de valores ímpares: " + impar);
+		tec.close();
 			
 			}
 	}
